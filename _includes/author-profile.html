@@ -76,6 +76,9 @@
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble icon-pad-right" aria-hidden="true"></i>Dribbble</a></li>
       {% endif %}      
+      {% if author.openreview %}
+        <li><a href="https://openreview.net/profile?id={{ author.openreview }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Openreview</a></li>
+      {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
