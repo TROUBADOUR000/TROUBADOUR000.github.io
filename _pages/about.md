@@ -38,7 +38,7 @@ email: huyf0122[at]gmail[dot]com
 
 Notes:（*）indicates the equal contributions.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2025</div><img src='images/TimeFilter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2025</div><img src='images/TimeFilter.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting
