@@ -34,7 +34,8 @@ email: huyf0122[at]gmail[dot]com
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025!
 
-### 📝 Publications
+## 📝 Publications
+
 Notes:（*）indicates the equal contributions.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2025</div><img src='images/TimeFilter.png' alt="sym" width="100%"></div></div>
@@ -61,6 +62,6 @@ TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series For
 
 
 🏆 Awards
-------
+======
 - *2025.06*: &nbsp;Outstanding Bachelor’s Degree Graduates at Tongji University.
 - *2022*: &nbsp;National Scholarship during my bachelor studying.
