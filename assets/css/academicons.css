@@ -17,7 +17,7 @@
 }
 .ai {
   font-family: 'Academicons';
-  font-weight: 400;
+  font-weight: normal;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
