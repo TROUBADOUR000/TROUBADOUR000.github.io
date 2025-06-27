@@ -25,6 +25,10 @@ My research interests focus on:
 - LLM Agents
 
 
+# 📧 Concat
+
+email: huyf0122[at]gmail[dot]com
+
 🔥 News
 ======
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
