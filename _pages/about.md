@@ -108,7 +108,7 @@ FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Foreca
 
 ## 📖 Educations
 
-- *2025.09 - 2028.07 (expected)*, MSc in , ![](images/tsinghua.png) **Tsinghua University**
+- *2025.09 - 2028.07 (expected)*, MSc in Computer Science, ![](images/tsinghua.png) **Tsinghua University**
 - *2021.09 - 2025.06*, Bachelor in Data Science, ![](images/tongji.png) **Tongji University**
 - *2022.09 - 2024.06*, Minor in Finance, ![](images/fudan.png) **Fudan University**
 
