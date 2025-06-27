@@ -118,6 +118,6 @@ FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Foreca
 
 
 ## 🏆 Awards
-======
+------
 - *2025.06*: &nbsp;Outstanding Bachelor’s Degree Graduates at Tongji University.
 - *2022*: &nbsp;National Scholarship during my bachelor studying.
