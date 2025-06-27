@@ -78,7 +78,7 @@ Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting
 </div>
 </div>
 
-## 📝 PrePrint
+## 🖨️ PrePrint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,12 +112,12 @@ FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Foreca
 - *2021.09 - 2025.06*, Bachelor in Data Science, ![](images/tongji.png) **Tongji University**
 - *2022.09 - 2024.06*, Minor in Finance, ![](images/fudan.png) **Fudan University**
 
-💻 Internships
+## 💻 Internships
 ------
 - *2025.02 - now,* Algorithm Engineer Intern, ![](images/damo.png) **Alibaba DAMO Academy**.
 
 
-🏆 Awards
+## 🏆 Awards
 ======
 - *2025.06*: &nbsp;Outstanding Bachelor’s Degree Graduates at Tongji University.
 - *2022*: &nbsp;National Scholarship during my bachelor studying.
