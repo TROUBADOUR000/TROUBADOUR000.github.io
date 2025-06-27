@@ -29,8 +29,7 @@ My research interests focus on:
 
 email: huyf0122[at]gmail[dot]com
 
-🔥 News
-------
+## 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025!
 
@@ -113,11 +112,11 @@ FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Foreca
 - *2022.09 - 2024.06*, Minor in Finance, ![](images/fudan.png) **Fudan University**
 
 ## 💻 Internships
-------
+
 - *2025.02 - now,* Algorithm Engineer Intern, ![](images/damo.png) **Alibaba DAMO Academy**.
 
 
 ## 🏆 Awards
-------
+
 - *2025.06*: &nbsp;Outstanding Bachelor’s Degree Graduates at Tongji University.
 - *2022*: &nbsp;National Scholarship during my bachelor studying.
