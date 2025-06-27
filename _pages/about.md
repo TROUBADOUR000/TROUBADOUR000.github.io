@@ -43,9 +43,65 @@ Notes:（*）indicates the equal contributions.
 
 TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting
 
-**Yifan Hu**,Guibin Zhang, Peiyuan Liu, Disen Lan, Naiqi Li, Dawei Cheng, Tao Dai, Shu-Tao Xia, and Shirui Pan
+**Yifan Hu**, Guibin Zhang, Peiyuan Liu, Disen Lan, Naiqi Li, Dawei Cheng, Tao Dai, Shu-Tao Xia, and Shirui Pan
 
 [ **Paper**](https://arxiv.org/pdf/2501.13041)   [**Code**](https://github.com/TROUBADOUR000/TimeFilter)  ![Stars](https://img.shields.io/github/stars/TROUBADOUR000/TimeFilter)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2025</div><img src='images/TimeBridge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting
+
+Peiyuan Liu\*, Beiliang Wu\*, **Yifan Hu**\*, Naiqi Li, Tao Dai, Jigang Bao, and Shu-Tao Xia
+
+[ **Paper**](https://arxiv.org/pdf/2410.04442)   [**Code**](https://github.com/Hank0626/TimeBridge)  ![Stars](https://img.shields.io/github/stars/Hank0626/TimeBridge)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI, 2025</div><img src='images/AMD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting
+
+**Yifan Hu**, Peiyuan Liu, Peng Zhu, Dawei Cheng, and Tao Dai
+
+[ **Paper**](https://arxiv.org/pdf/2406.03751)   [**Code**](https://github.com/TROUBADOUR000/AMD)  ![Stars](https://img.shields.io/github/stars/TROUBADOUR000/AMD)
+
+</div>
+</div>
+
+## 📝 PrePrint
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction
+
+**Yifan Hu**, Peiyuan Liu, Yuante Li, Dawei Cheng, Naiqi Li, Tao Dai, Jigang Bao, and Shu-Tao Xia
+
+[ **Paper**](https://arxiv.org/pdf/2502.06707)   [**Code**](https://github.com/TROUBADOUR000/FinMamba)  ![Stars](https://img.shields.io/github/stars/TROUBADOUR000/FinMamba)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting
+
+**Yifan Hu**, Yuante Li, Peiyuan Liu, Yuxia Zhu, Naiqi Li, Tao Dai, Shu-tao Xia, Dawei Cheng, and Changjun Jiang
+
+[ **Paper**](https://arxiv.org/pdf/2502.18834)   [**Code**](https://github.com/TongjiFinLab/FinTSB)  ![Stars](https://img.shields.io/github/stars/TongjiFinLab/FinTSB)  [Awesome-Papers](https://github.com/TongjiFinLab/awesome-time-series-forecasting) ![Stars](https://img.shields.io/github/stars/TongjiFinLab/awesome-time-series-forecasting)
 
 </div>
 </div>
