@@ -54,7 +54,7 @@ TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series For
 
 💻 Internships
 ======
-- *2025.02 - now,* Algorithm Engineer Intern, **Alibaba DAMO Academy**.
+- *2025.02 - now,* Algorithm Engineer Intern, ![](images/damo.png) **Alibaba DAMO Academy**.
 
 
 🏆 Awards
