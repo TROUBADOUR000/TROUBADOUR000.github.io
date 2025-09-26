@@ -121,4 +121,5 @@ FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Foreca
 
 ## 🔗 Service
 
-- 2026: ICLR, AAAI
+- Conference Reviewer
+  - 2026: ICLR, AAAI
