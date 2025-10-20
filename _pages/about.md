@@ -30,12 +30,27 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper candidate!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025!
 
 ## 📝 Publications
 
 Notes:（*）indicates the equal contributions.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIFW Best Paper Candidate</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting
+
+**Yifan Hu**, Yuante Li, Peiyuan Liu, Yuxia Zhu, Naiqi Li, Tao Dai, Shu-tao Xia, Dawei Cheng, and Changjun Jiang
+
+[ **Paper**](https://arxiv.org/pdf/2502.18834)   [**Code**](https://github.com/TongjiFinLab/FinTSB)  ![Stars](https://img.shields.io/github/stars/TongjiFinLab/FinTSB)  [Awesome-Papers](https://github.com/TongjiFinLab/awesome-time-series-forecasting) ![Stars](https://img.shields.io/github/stars/TongjiFinLab/awesome-time-series-forecasting)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2025</div><img src='images/TimeFilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,18 +107,6 @@ FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Predi
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting
-
-**Yifan Hu**, Yuante Li, Peiyuan Liu, Yuxia Zhu, Naiqi Li, Tao Dai, Shu-tao Xia, Dawei Cheng, and Changjun Jiang
-
-[ **Paper**](https://arxiv.org/pdf/2502.18834)   [**Code**](https://github.com/TongjiFinLab/FinTSB)  ![Stars](https://img.shields.io/github/stars/TongjiFinLab/FinTSB)  [Awesome-Papers](https://github.com/TongjiFinLab/awesome-time-series-forecasting) ![Stars](https://img.shields.io/github/stars/TongjiFinLab/awesome-time-series-forecasting)
-
-</div>
-</div>
 
 ## 📖 Educations
 
