@@ -30,7 +30,7 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
-- *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper candidate!
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025!
 
@@ -39,7 +39,7 @@ email: huyf0122[at]gmail[dot]com
 Notes:（*）indicates the equal contributions.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIFW Best Paper Candidate</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIFW Best Paper</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting
