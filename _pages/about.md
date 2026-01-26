@@ -93,21 +93,6 @@ Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting
 </div>
 </div>
 
-## 🖨️ PrePrint
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction
-
-**Yifan Hu**, Peiyuan Liu, Yuante Li, Dawei Cheng, Naiqi Li, Tao Dai, Jigang Bao, and Shu-Tao Xia
-
-[ **Paper**](https://arxiv.org/pdf/2502.06707)   [**Code**](https://github.com/TROUBADOUR000/FinMamba)  ![Stars](https://img.shields.io/github/stars/TROUBADOUR000/FinMamba)
-
-</div>
-</div>
-
-
 
 ## 📖 Educations
 
