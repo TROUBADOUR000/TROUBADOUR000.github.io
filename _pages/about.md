@@ -30,6 +30,7 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2025!
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025!
