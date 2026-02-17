@@ -40,6 +40,32 @@ email: huyf0122[at]gmail[dot]com
 Notes:（*）indicates the equal contributions.
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/TimeAlign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting
+
+**Yifan Hu**, Jie Yang, Tian Zhou, Peiyuan Liu, Yujin Tang, Rong Jin, Liang Sun
+
+[ **Paper**](https://openreview.net/pdf?id=pQzQfslqlD)   [**Code**](https://github.com/TROUBADOUR000/TimeAlign)  ![Stars](https://img.shields.io/github/stars/TROUBADOUR000/TimeAlign)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/AesR1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Unlocking the Essence of Beauty: Advanced Aesthetic Reasoning with Relative-Absolute Policy Optimization
+
+Boyang Liu\*, **Yifan Hu**\*, Senjie Jin, Shihan Dou, Gonglei Shi, Jie Shao, Tao Gui, Xuanjing Huang
+
+[ **Paper**](https://openreview.net/pdf?id=or3ZukbrKw)   [**Code**](https://github.com/ssssmark/AesR1)  ![Stars](https://img.shields.io/github/stars/ssssmark/AesR1)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIFW Best Paper</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
