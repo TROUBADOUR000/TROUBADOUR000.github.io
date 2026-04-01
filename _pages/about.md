@@ -137,4 +137,4 @@ Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting
 ## 🔗 Service
 
 - Conference Reviewer
-  - 2026: ICLR, AAAI
+  - 2026: NIPS, ICML, ICLR, AAAI
