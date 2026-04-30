@@ -30,6 +30,7 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026!
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026!
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
@@ -38,6 +39,19 @@ email: huyf0122[at]gmail[dot]com
 ## 📝 Publications
 
 Notes:（*）indicates the equal contributions.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/LatentTSF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+From Observations to States: Latent Time Series Forecasting
+
+Jie Yang\*, **Yifan Hu**\*, Yuante Li, Kexin Zhang, Kaize Ding, Philip S. Yu
+
+[ **Paper**](https://arxiv.org/pdf/2602.00297)   [**Code**](https://github.com/Muyiiiii/LatentTSF)  ![Stars](https://img.shields.io/github/stars/Muyiiiii/LatentTSF)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/TimeAlign.png' alt="sym" width="100%"></div></div>
