@@ -30,6 +30,7 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2026!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026!
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026!
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper!
@@ -39,6 +40,19 @@ email: huyf0122[at]gmail[dot]com
 ## 📝 Publications
 
 Notes:（*）indicates the equal contributions.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/TimeGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Forecasting as Rendering: A 2D Gaussian Splatting Framework for Time Series Forecasting
+
+Yixin Wang\*, **Yifan Hu**\*, Peiyuan Liu\*, Naiqi Li, Tao Dai, Shu-Tao Xia
+
+[ **Paper**](https://arxiv.org/pdf/2603.02220)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/LatentTSF.png' alt="sym" width="100%"></div></div>
