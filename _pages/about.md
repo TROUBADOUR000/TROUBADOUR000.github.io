@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently in the first year of my Master’s degree in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), under the mentorship of Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). I work closely with Prof. [Tao Dai](https://cstaodai.com/) and Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/). Before that, I completed my undergraduate studies in Data Science at [Tongji University](https://www.tongji.edu.cn/), with a minor in Finance at [Fudan University](https://www.fudan.edu.cn/).
+I am currently in the **first** year of my Master’s degree in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), under the mentorship of Prof. [Shu-Tao Xia](https://www.sigs.tsinghua.edu.cn/xst/main.htm). I work closely with Prof. [Tao Dai](https://cstaodai.com/) and Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/). Before that, I completed my undergraduate studies in Data Science at [Tongji University](https://www.tongji.edu.cn/), with a minor in Finance at [Fudan University](https://www.fudan.edu.cn/).
 
 My research interests focus on:
 
@@ -37,7 +37,7 @@ email: huyf0122[at]gmail[dot]com
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025!
 
-## 📝 Publications
+## 📝 Selected Publications
 
 Notes:（*）indicates the equal contributions.
 
