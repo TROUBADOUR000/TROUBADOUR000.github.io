@@ -30,7 +30,7 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2026!
+- *2026.05*: &nbsp;🎉🎉 Two papers is accepted by KDD 2026. One research track and one workshop!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026!
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026!
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper!
@@ -42,7 +42,7 @@ email: huyf0122[at]gmail[dot]com
 Notes:（*）indicates the equal contributions.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 9th Workshop on Machine Learning in Finance</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop on ML in Finance</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction
