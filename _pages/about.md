@@ -42,27 +42,14 @@ email: huyf0122[at]gmail[dot]com
 Notes:（*）indicates the equal contributions.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/TimeGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 9th Workshop on Machine Learning in Finance</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Forecasting as Rendering: A 2D Gaussian Splatting Framework for Time Series Forecasting
+FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction
 
-Yixin Wang\*, **Yifan Hu**\*, Peiyuan Liu\*, Naiqi Li, Tao Dai, Shu-Tao Xia
+**Yifan Hu**, Peiyuan Liu, Yuante Li, Dawei Cheng, Naiqi Li, Tao Dai, Jigang Bao, and Shu-Tao Xia
 
-[ **Paper**](https://arxiv.org/pdf/2603.02220)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/LatentTSF.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-From Observations to States: Latent Time Series Forecasting
-
-Jie Yang\*, **Yifan Hu**\*, Yuante Li, Kexin Zhang, Kaize Ding, Philip S. Yu
-
-[ **Paper**](https://arxiv.org/pdf/2602.00297)   [**Code**](https://github.com/Muyiiiii/LatentTSF)  ![Stars](https://img.shields.io/github/stars/Muyiiiii/LatentTSF)
+[ **Paper**](https://arxiv.org/pdf/2502.06707)   [**Code**](https://github.com/TROUBADOUR000/FinMamba)  ![Stars](https://img.shields.io/github/stars/TROUBADOUR000/FinMamba)
 
 </div>
 </div>
@@ -118,21 +105,6 @@ TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series For
 
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML, 2025</div><img src='images/TimeBridge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting
-
-Peiyuan Liu\*, Beiliang Wu\*, **Yifan Hu**\*, Naiqi Li, Tao Dai, Jigang Bao, and Shu-Tao Xia
-
-[ **Paper**](https://arxiv.org/pdf/2410.04442)   [**Code**](https://github.com/Hank0626/TimeBridge)  ![Stars](https://img.shields.io/github/stars/Hank0626/TimeBridge)
-
-</div>
-</div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI, 2025</div><img src='images/AMD.png' alt="sym" width="100%"></div></div>
