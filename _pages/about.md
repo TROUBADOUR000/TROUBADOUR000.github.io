@@ -55,7 +55,7 @@ The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Fr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop on ML in Finance</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026 & KDD-MLF</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FinMamba: Market-Aware Graph Enhanced Multi-Level Mamba for Stock Movement Prediction
@@ -94,7 +94,7 @@ Boyang Liu\*, **Yifan Hu**\*, Senjie Jin, Shihan Dou, Gonglei Shi, Jie Shao, Tao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAIFW Best Paper</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS & ICAIFW Best Paper</div><img src='images/FinTSB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting
