@@ -56,6 +56,31 @@ The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Fr
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/Timeflies.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting
+
+**Yifan Hu**, Hongzhou Chen, Peiyuan Liu, Yiding Liu, Zewei Dong, Jiang-Ming Yang
+
+[ **Paper**](https://arxiv.org/pdf/2606.13571)   [**Code**](https://github.com/ant-intl/Timeflies)  ![Stars](https://img.shields.io/github/stars/ant-intl/Timeflies)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/FalconX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling
+
+Yiding Liu\*, **Yifan Hu**\*, Hongjie Xia\*, Peiyuan Liu\*, Hongzhou Chen, Xilin Dai, Zewei Dong, Jiang-Ming Yang
+
+[ **Paper**](https://arxiv.org/pdf/2605.27286)   [**Code**](https://github.com/ant-intl/Falcon-TST)  ![Stars](https://img.shields.io/github/stars/ant-intl/Falcon-TST)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026 & KDD-MLF</div><img src='images/FinMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
