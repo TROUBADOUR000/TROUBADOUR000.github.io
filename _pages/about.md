@@ -30,9 +30,9 @@ My research interests focus on:
 email: huyf0122[at]gmail[dot]com
 
 ## 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Four papers are accepted by NeurIPS 2026!
+- *2026.09*: &nbsp;🎉🎉 Five papers are accepted by NeurIPS 2026! Four main conference papers and one workshop paper.
 - *2026.08*: &nbsp;🎉🎉 One papers is accepted by CIKM 2026!
-- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by KDD 2026! One research track and one workshop.
+- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by KDD 2026! One research track paper and one workshop paper.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026!
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2026!
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICAIF 2025 Workshop as best paper!
